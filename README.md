@@ -6,18 +6,6 @@
 
 Тестирование программного обеспечения — моя новая страсть ❤️‍🔥. После интенсивных курсов по тестированию и работы над практическими проектами я смогла получить уверенность в своих навыках и понять, как важна внимательность к деталям в этой профессии. Мое портфолио — это результат обучающего пути, через который я прошла, и которым хочу поделиться здесь.
 
-- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:killjoysonmars@gmail.com)
-
----
-
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="https://t.me/Alpaakaaaa" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
-
 ---
 
 ### 📁 Используемые инструменты:
@@ -60,5 +48,19 @@ ___
  - [Интерактивный курс по SQL](https://drive.google.com/file/d/1j562eYZWb74_9vF9zzXCUKHdFMkQlQD6/view?usp=sharing)
 
 --- 
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3c5MnUyNHo0aWRzaTZwajVoeXQxYXQzNDBraXpzODU4MzQxcW85YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif" width="100"/>
+</div>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Burlaka27)
+<div id="badges" align="center">
+  <a href="mailto:killjoysonmars@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+  </a>
+  <a href="https://t.me/Alpaakaaaa">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Burlaka27" alt="Visitor Badge"/>
+</div>
