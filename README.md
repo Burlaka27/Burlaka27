@@ -46,6 +46,7 @@
 ___
 
 ### 💻 Пройденные курсы:
+ - [Функциональное тестирование ПО](https://drive.google.com/file/d/1vTcXdC4rGSoQubr20rRSHoi1DkW4HrdP/view?usp=sharing)
  - [Тестирование ПО с нуля. Теория + Практика](https://drive.google.com/file/d/1LWk4NlqSh6ZMIt4g2IBG5aDzbKNdtiJ0/view?usp=sharing)
  - [Интерактивный курс по SQL](https://drive.google.com/file/d/1j562eYZWb74_9vF9zzXCUKHdFMkQlQD6/view?usp=sharing)
 
