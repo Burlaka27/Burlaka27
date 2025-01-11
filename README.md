@@ -19,7 +19,7 @@
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="30" height="30"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="30" height="30"/>&nbsp
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="30" height="30"/>&nbsp
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="30" height="30"/>&nbsp
+  <img src="https://img.icons8.com/?size=100&id=fgTEEeY72Lw2&format=png&color=FD7E14" title="postman" alt="postman" width="30" height="30"/>&nbsp
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="30" height="30"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="30" height="30"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="30" height="30"/>&nbsp
